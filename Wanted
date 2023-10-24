@@ -1,0 +1,28 @@
+# 𝗪𝗮𝗻𝘁𝗲𝗱 IT System Engineer - Cloud AWS
+ 
+## profile
+ 
+```javascript
+const itSystemEngineer = {
+position: "IT System Engineer - Cloud AWS",
+location: "remote",
+experience: "2 Jahre +",
+};
+ 
+const responsibilities = [
+"Du bist der Architekt und Umsetzer von skalierbaren Cloud-Infrastrukturen in der AWS-Welt.",
+"Als technischer Consultant berätst du Enterprise-Kunden und löst komplexe technische Herausforderungen.",
+"Du gestaltest und implementierst innovative Cloud-Umgebungen und Microservices.",
+"Die Gewährleistung von Performance, Skalierbarkeit und Verfügbarkeit von Cloud-Lösungen ist deine Mission.",
+];
+ 
+const qualifications = [
+"Du bringst umfassende Erfahrung im Enterprise-Umfeld als technischer Consultant oder in der Infrastruktur- bzw. Cloud-Branche mit.",
+"Du bist ein Profi in der Architektur und Umsetzung von Cloud-Umgebungen und Microservices.",
+"Zertifizierungen im Bereich AWS sind ein Plus.",
+"Du bist ein Problemlösungs-Ninja und kommunikationsstark.",
+];
+// interested?:
+const contact = {
+email: "𝗱𝗮𝗻𝗶𝗲𝗹𝗮.𝗮𝗯𝗶𝗱𝗶-𝘃𝗼𝗲𝗹𝗯𝗲𝗹@𝗻𝗲𝘁𝗹𝘂𝘁𝗶𝗼𝗻.𝗱𝗲",
+};
